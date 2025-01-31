@@ -23,7 +23,8 @@ def collocare(dato):
 
  
  
- 
+ lis = [4,56,6]
+collocare(lis)
 
 
 
